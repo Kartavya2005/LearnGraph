@@ -997,17 +997,17 @@ The dashboard provides an overview of the student's current career readiness and
 ### Skill Gap
 
 The Skill Gap page shows the difference between the student's known skills and the skills required for the target career.
-![LearnGraph Skill-Gap](frontend/public/Screenshot 2026-08-12 201331.png)
+![LearnGraph Skill-Gap](frontend/public/skill-gap.png)
 
 ### Learning Path
 
 The Learning Path page presents prerequisite-based learning sequences and relevant courses.
-![LearnGraph Learning Path](frontend/public/Screenshot 2026-08-12 201331-1.png)
+![LearnGraph Learning Path](frontend/public/learningpath.png)
 
 ### Graph Explorer
 
 The Graph Explorer provides an interactive view of relationships between students, skills, and careers.
-![LearnGraph Graph Explorer](frontend/public/Screenshot 2026-08-12 201331-2.png)
+![LearnGraph Graph Explorer](frontend/public/graph.png)
 
 ## 👨‍💻 Author
 
